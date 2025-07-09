@@ -11,11 +11,6 @@ Ini adalah proyek **Portofolio Pribadi** yang dibuat menggunakan **Laravel** seb
 - ⭐ Sistem rating sederhana untuk feedback portofolio
 - 🔒 Validasi input dan keamanan dasar Laravel
 
-## 📸 Cuplikan
-
-| Halaman Utama | Formulir Kontak |
-|---------------|-----------------|
-| ![Homepage](public/images/Tampilan.png) | ![Contact](public/images/PMDGAMBAR.png) |
 
 ## 🚀 Teknologi yang Digunakan
 
